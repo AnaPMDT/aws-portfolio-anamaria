@@ -21,10 +21,25 @@ Visual ETL Pipeline Validation
 
 ![image](https://github.com/user-attachments/assets/0ba1a542-1084-4d51-b7de-928ee44c3ae1)
 
+I determined the response to the ETL pipeline with the AWS Glue Studio visually applying an ETL pipeline to merge and transform retention data. This enables the non-technical stakeholders to audit the logic used.
 
+Governance Check (Pass/Fail)
 
+![image](https://github.com/user-attachments/assets/cc52fb71-bd71-47fb-9e20-83c9c1f02e55)
+![image](https://github.com/user-attachments/assets/81baea69-b80e-4f85-a280-c30dc0be1583)
 
+AWS tools guided the verification that the ETL pipeline successfully completed governance validation, which implies that all the resources utilized are secure, documented, and are compliant with standards.
 
+CloudTrail Setup
 
+![image](https://github.com/user-attachments/assets/8eb59cba-1375-4841-88f2-604914a06ac5)
+
+I configured CloudTrail to log all activities related to S3 and Glue. This creates a traceable log of operations, which supports accountability and helps in identifying anomalies or misconfigurations.
+
+CloudWatch Dashboard
+
+![image](https://github.com/user-attachments/assets/f2936cf4-2a4a-497f-8153-ec4e06d2638a)
+
+I wrote some CloudWatch dashboard to check on the size of S3 bucket and the time it takes a job in Glue. These indicators give the academic team the ability to predict current storage increase and job backlog before it can occur, which will make resources planning much more effective.
 
 
