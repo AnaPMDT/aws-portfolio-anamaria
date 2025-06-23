@@ -1,4 +1,4 @@
-# aws-portfolio-anamaria
+# AWS Portfolio Ana Maria
 AWS Cloud Foundations Portfolio - Case Studies, Designs, and Screenshots
 
 ## Contents
