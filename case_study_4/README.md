@@ -20,6 +20,7 @@ Glue DataBrew was utilized for data cleaning and transformation of the retention
 Glue DataBrew was utilized for data cleaning and transformation of the retention and demographics datasets. Cost estimation included project, job runs, and the number of rows processed, based on actual lab activity.
 AWS Glue was used to clean, transform, and join the StudentDemographics and RetentionRecords datasets. I applied DataBrew for data preparation, Crawlers to update the Data Catalog, and Glue Studio to create an ETL pipeline. All steps supported the retention analysis and were included in the cost estimation.
 
+![image](https://github.com/user-attachments/assets/9874ae7e-3ef6-4f84-ad5e-10a2ce55de59)
 
 
 
