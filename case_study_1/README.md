@@ -9,3 +9,4 @@ It is the case study of how the Retention Records & Student Demographics dataset
 
 AWS Knowledge Check
 
+![image](https://github.com/user-attachments/assets/537e5e2a-bbfb-4339-8ece-f33b4eb87bdb)
