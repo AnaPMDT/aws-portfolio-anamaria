@@ -20,4 +20,6 @@ SaaS offers utilized applications in full management and accessible by web brows
 PaaS and SaaS forms of service are the best service models of an academic department involved in the analysis of retention of students. PaaS provider, such AWS Glue or DataBrew, can enable effective data transformation and data wrapping, which can be crucial in the case with large datasets used in education. SaaS supports learning, academic communication and collaboration. When compared to IaaS, PaaS and SaaS are more effective in the everyday academic and research demands.
 
 AWS Knowledge Check
+
+
 ![image](https://github.com/user-attachments/assets/ef4ffc67-1c73-43bf-af17-c4edf5f1cd68)
