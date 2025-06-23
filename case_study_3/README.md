@@ -11,3 +11,8 @@ PaaS is one that provides a platform on which users get to build, deploy and man
 Software as a Service (SaaS):
 SaaS offers utilized applications in full management and accessible by web browser. Business customers do not deal with infrastructure or platforms. Zoom, Canvas, and Office 365 are the common examples of SaaS that facilitate administrative, academic communications, document processing, and learning management.
 
+| Service Model | Description                                                                 | AWS Example                | Use Case in Academic Department                                      |
+|---------------|-----------------------------------------------------------------------------|----------------------------|------------------------------------------------------------------------|
+| **IaaS**      | Offers virtual computers and bare computing/storage resources.              | EC2, S3                    | Store and host documents and data of students safely.                |
+| **PaaS**      | Provides an environment to build, convert and control applications as well as the data. | DataBrew, AWS Glue         | Process academic analytics, run data profiling, cleaning, and ETLs. |
+| **SaaS**      | Provides an entire application to users through a web access.               | Zoom, Canvas, Office 365   | Control communication processes and course delivery and administration. |
