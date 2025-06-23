@@ -16,3 +16,6 @@ SaaS offers utilized applications in full management and accessible by web brows
 | **IaaS**      | Offers virtual computers and bare computing/storage resources.              | EC2, S3                    | Store and host documents and data of students safely.                |
 | **PaaS**      | Provides an environment to build, convert and control applications as well as the data. | DataBrew, AWS Glue         | Process academic analytics, run data profiling, cleaning, and ETLs. |
 | **SaaS**      | Provides an entire application to users through a web access.               | Zoom, Canvas, Office 365   | Control communication processes and course delivery and administration. |
+
+PaaS and SaaS forms of service are the best service models of an academic department involved in the analysis of retention of students. PaaS provider, such AWS Glue or DataBrew, can enable effective data transformation and data wrapping, which can be crucial in the case with large datasets used in education. SaaS supports learning, academic communication and collaboration. When compared to IaaS, PaaS and SaaS are more effective in the everyday academic and research demands.
+
