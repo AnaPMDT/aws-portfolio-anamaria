@@ -8,4 +8,4 @@ Moreover, the portfolio enabled me to be more tactical in terms of cost manageme
 
 I could not have had my learning experience had it not been based on a level of hands on that I was subjected to which as well as stitching my knowledge base into the type of fluency that would acquire the technical expertise in cloud fundamental places also did support why this concept in the mantra of agile iteration, cross-functional collaboration, as well as data stewardship is one of the pillars of project success of IT.
 
-Lead Project Manager | MBA Candidate
+Ana Maria Rojas Vargas: Lead Project Manager | MBA Candidate
