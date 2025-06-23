@@ -1,5 +1,6 @@
 
-Cloud deployment models
+# Cloud deployment models
+
 This case study pits the three major models of cloud deployment: Public Cloud, Private Cloud and Hybrid Cloud against each other and considers an example of how to use it in an academic department. The objective is to come up with the most appropriate model which can be used in storing and analysis of student retention and demography data. In the analysis some of the important features which are considered are data sensitivity, privacy levels, cost, flexibility and scalability. The last recommendation will concern the choice of the model that will help to ensure not only secure data management but good academic analytics.
  
 Deployment Models Comparison
