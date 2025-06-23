@@ -14,3 +14,4 @@ Deployment Models Comparison
 
 The Hybrid Cloud model is the most suitable choice of the academic department. It enables the institution to utilize AWS scalable analytics programs, to analyze non-sensitive demographic information, whereas the sensitive academic information is stored in a closed network. This is a Trade-off in terms of privacy of data, its flexibility, and cost-effectiveness, which makes this deployment model a perfect fit in the case of student retention analytics. It also aids in the adherence to the academic data governance policies and delivers strategic decision-making via cloud-based insights.
 
+![image](https://github.com/user-attachments/assets/40becedc-9894-4f5c-97e0-7f15c502ddca)
