@@ -8,5 +8,20 @@ My tasks in this case study were to estimate the cost of operations of using Ama
 
 ![image](https://github.com/user-attachments/assets/0bd77b82-ee34-42ba-94b9-db46b6e2f98c)
 
-Datasets were stored in three zones namely, raw, clean, and curated via Amazon S3 storage. The costs of storing data were estimated based on monthly volume of data that may increase and versioning of data to be able to trace data and rollback the data.![image](https://github.com/user-attachments/assets/36a8e342-54df-4f95-bbc8-97b079ed7f41)
+Datasets were stored in three zones namely, raw, clean, and curated via Amazon S3 storage. The costs of storing data were estimated based on monthly volume of data that may increase and versioning of data to be able to trace data and rollback the data.
+
+
+![image](https://github.com/user-attachments/assets/f82a0f4f-dd37-42aa-9d45-9e27fbf11f7d)
+
+Glue DataBrew was utilized for data cleaning and transformation of the retention and demographics datasets. Cost estimation included project, job runs, and the number of rows processed, based on actual lab activity.
+
+![image](https://github.com/user-attachments/assets/fac496ed-a3ad-4730-9b51-eb570813da69)
+
+Glue DataBrew was utilized for data cleaning and transformation of the retention and demographics datasets. Cost estimation included project, job runs, and the number of rows processed, based on actual lab activity.
+AWS Glue was used to clean, transform, and join the StudentDemographics and RetentionRecords datasets. I applied DataBrew for data preparation, Crawlers to update the Data Catalog, and Glue Studio to create an ETL pipeline. All steps supported the retention analysis and were included in the cost estimation.
+
+
+
+
+
 
